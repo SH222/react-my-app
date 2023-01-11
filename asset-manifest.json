@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react-my-app.git/static/js/main.fecbacab.js",
+    "index.html": "/react-my-app.git/index.html",
+    "main.fecbacab.js.map": "/react-my-app.git/static/js/main.fecbacab.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fecbacab.js"
+  ]
+}
